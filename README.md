@@ -18,6 +18,20 @@ It is also fully protected from CSRF attacks by using a JWT token system and SQL
 This application is fully deployed with Docker, Docker Compose.
 Fully writen in Typescript, with the use of NestJS and Vue.js.
 
+## Inside
+
+![Home](../../../../Screenshot%202022-08-14%20at%2016.34.23.png)
+
+![Profile](../../../../Screenshot%202022-08-14%20at%2016.34.44.png)
+
+![Pong](../../../../Screenshot%202022-08-14%20at%2016.36.39.png)
+
+![2FA](../../../../Screenshot%202022-08-14%20at%2016.38.12.png)
+
+![Chat](../../../../Screenshot%202022-08-14%20at%2016.55.25.png)
+
+![Console](../../../../Screenshot%202022-08-14%20at%2016.38.58.png)
+
 ## Usage
 
 Can be run using `docker-compose up --build` or `docker-compose up`.
