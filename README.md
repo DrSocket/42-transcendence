@@ -18,6 +18,9 @@ It is also fully protected from CSRF attacks by using a JWT token system and SQL
 This application is fully deployed with Docker, Docker Compose.
 Fully writen in Typescript, with the use of NestJS and Vue.js.
 
+The videos on websockets by Brian Johnson were extremely helpful to get started with websocket using Nestjs. 
+https://youtube.com/playlist?list=PLBHzlq7ILbsaL1sZxJIxrc4ofSPAMSTzr
+
 ## Inside
 
 <img width="1440" alt="Home" src="https://user-images.githubusercontent.com/66217791/184543532-97d29af8-1540-422a-ac82-a52dd5620af9.png">
@@ -82,3 +85,7 @@ PGADMIN_DEFAULT_EMAIL=
 PGADMIN_DEFAULT_PASSWORD=
 ```
 
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
