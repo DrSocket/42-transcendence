@@ -20,17 +20,16 @@ Fully writen in Typescript, with the use of NestJS and Vue.js.
 
 ## Inside
 
-![Home](../../../../Screenshot%202022-08-14%20at%2016.34.23.png)
+<img width="1440" alt="Home" src="https://user-images.githubusercontent.com/66217791/184543532-97d29af8-1540-422a-ac82-a52dd5620af9.png">
 
-![Profile](../../../../Screenshot%202022-08-14%20at%2016.34.44.png)
+<img width="1440" alt="Profile" src="https://user-images.githubusercontent.com/66217791/184543558-db96eb88-bfbf-401d-8c27-36983de9be76.png">
 
-![Pong](../../../../Screenshot%202022-08-14%20at%2016.36.39.png)
+<img width="1440" alt="Pong" src="https://user-images.githubusercontent.com/66217791/184543576-a7949cb6-95ee-4ca8-883c-58eab3c99411.png">
 
-![2FA](../../../../Screenshot%202022-08-14%20at%2016.38.12.png)
+<img width="1440" alt="2FA" src="https://user-images.githubusercontent.com/66217791/184543591-e319c16c-20aa-4eb2-b3ed-ff7287cf83e6.png">
 
-![Chat](../../../../Screenshot%202022-08-14%20at%2016.55.25.png)
+<img width="206" alt="Chat" src="https://user-images.githubusercontent.com/66217791/184543602-078992f1-3be8-4e1d-bf4a-f8eb68e44ff7.png">
 
-![Console](../../../../Screenshot%202022-08-14%20at%2016.38.58.png)
 
 ## Usage
 
